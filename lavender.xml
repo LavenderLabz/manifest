@@ -2,7 +2,7 @@
 <manifest>
     <!-- Trees -->
     <project name="LavenderLabz/device_xiaomi_lavender" path="device/xiaomi/lavender" revision="16.2" remote="github" />
-    <project name="LavenderLabz/kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" revision="16.2" remote="github" />
+    <project name="LavenderLabz/kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" revision="main" remote="github" />
     <project name="LavenderLabz/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" revision="16.2" remote="github" />
     
     <!-- Additional Hardware -->
