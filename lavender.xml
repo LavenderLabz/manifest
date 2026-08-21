@@ -8,8 +8,4 @@
     <!-- Additional Hardware -->
     <project name="pix106/android_hardware_qcom-caf_camera" path="hardware/qcom-caf/sdm660/camera" revision="sdm660-4.19-12.2.1.r1-sdm660-commonized" remote="github" />
     <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" />
-
-    <!-- Replace System Core -->
-    <remove-project name="LineageOS/android_system_core" />
-    <project name="LavenderLabz/android_system_core" path="system/core" remote="github" />
 </manifest>
